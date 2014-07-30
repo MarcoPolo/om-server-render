@@ -23,5 +23,5 @@ Then build the node cljs server
 Then start up the clojure server  
 > lein ring server-headless
   
-Then navigate to `http://localhost/42`, and voila that button was built on the server!
+Then navigate to `http://localhost:3000/42`, and voila that button was built on the server!
 
